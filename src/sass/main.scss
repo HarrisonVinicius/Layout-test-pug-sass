@@ -1,0 +1,22 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+$theme-color: #D1D0D0;
+
+nav {
+    background-color: $theme-color;
+}
+
+section {
+    display: block; 
+    height: 428px;
+    background-image: url(https://cdn-images-1.medium.com/max/1220/1*uukZgiWMO6dVcvu8j9Rn-Q.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.theme-bg{
+    background-color: $theme-color;
+}
+
+
+
